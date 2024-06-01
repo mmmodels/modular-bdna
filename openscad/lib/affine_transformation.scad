@@ -1,7 +1,7 @@
 /*
 This script calculates the affine transformation matrix that maps one vector onto another vector. It is used for putting junctions onto models.
 
-This script is an OpenSCAD implementation of the formula mentioned in this Math Stack Exchange answer: (https://math.stackexchange.com/a/476311)
+This script is an OpenSCAD implementation of the formula described in this Math Stack Exchange answer: (https://math.stackexchange.com/a/476311)
 */
 
 // Identity matrix

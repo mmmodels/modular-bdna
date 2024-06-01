@@ -1,18 +1,18 @@
 /*
-This file stores global variables used by other scripts
+This file stores global variables referenced by all other scripts
 */
 
 $fn = 45;    // Resolution parameter of OpenSCAD
-s = 1;       // Scaling factor (Note: This is 25% size of the mkupier model)
 
-// Atomic radii (ratio not exactly the same as actual atoms) (mm)
+// Atomic radii (mm)
+// The aesthetic choice of ratio between elements are mostly the same as mkupier's model
 Hr = 1.875;  // Hydrogen
 Cr = 2.75;   // Carbon
 Nr = 2.75;   // Nitrogen
 Or = 2.75;   // Oxygen
 Pr = 3.5;    // Phosphorus
 
-// Bond lengths (ratio not exactly the same as actual bonds) (mm)
+// Bond lengths (mm)
 CN_bond_len = 3.75;
 CH_bond_len = 1.75;
 PO_bond_len = 3.94;
