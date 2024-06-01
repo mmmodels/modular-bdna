@@ -1,5 +1,5 @@
 /*
-This script generates a standalone adenine model for B-DNA
+This script generates a standalone adenine piece for B-DNA
 */
 
 include <./lib/global_variables.scad>

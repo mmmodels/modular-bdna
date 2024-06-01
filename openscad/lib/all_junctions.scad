@@ -307,7 +307,7 @@ module socket_crevice(){ // Crevice on socket, separated for easier management
 }
 
 module bkbk_socket(rot_angle){
-    rotate([rot_angle,0,0]) scale([s,s,s]){
+    rotate([rot_angle,0,0]){
         difference(){   
             sphere(Pr); // Phosphorus atom
             difference(){

@@ -1,5 +1,5 @@
 /*
-This script generates a standalone thymine model for B-DNA
+This script generates a standalone thymine piece for B-DNA
 */
 
 include <./lib/global_variables.scad>

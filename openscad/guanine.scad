@@ -1,5 +1,5 @@
 /*
-This script generates a standalone guanine model for B-DNA
+This script generates a standalone guanine piece for B-DNA
 */
 
 include <./lib/global_variables.scad>
