@@ -2,9 +2,34 @@
 
 A structurally-accurate, modular, and articulating B-DNA model kit optimized for desktop FDM 3D-printers.
 
+![DOI](https://img.shields.io/badge/DOI-12345678-blue)
+
+## Features
+
+- To be added
+
+## Catalog
+
+### STL Files
+
+- `adenine.stl`, `thymine.stl`, `cytosine.stl`, `guanine.stl`
+    - Nucleobase pieces
+- `backbone.stl`
+    - Backbone piece with no built-in articulation
+- `backbone_artic_o.stl`
+    - Same as `backbone.stl` but with built-in articulation at C3-O bond
+- `backbone_artic_2.stl`
+    - Same as `backbone.stl` but with built-in articulation at C3-O and C4-C5 bond.
+- `endcap_o.stl`, `endcap_p.stl`
+    - 5' and 3' end caps respectively.
+
+### OpenSCAD Scripts
+
+- To be added
+
 ## References
 
-The aesthetic choice of nucleobases are modified from [Folding DNA model kit.](https://www.thingiverse.com/thing:714312) by [Michael Kupier](https://www.thingiverse.com/mkuiper/designs), which is released under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) License.
+The aesthetic choice of nucleobases is modified from [Folding DNA model kit.](https://www.thingiverse.com/thing:714312) by [Michael Kupier](https://www.thingiverse.com/mkuiper/designs) released under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) License.
 
 Design of junctions inspired by the following paper:
 
@@ -16,6 +41,6 @@ B-DNA structure reference: https://doi.org/10.2210/pdb2BNA/pdb
 
 ## License
 
-The entirety of this work, including both the STL files and the OpenSCAD scripts that generate them, are licensed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) License.
+The entirety of this work, including both the STL files and the OpenSCAD scripts that generate them, is licensed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) License.
 
 <img src="./others/readme-images/by-nc-sa.png" width="150"/>
