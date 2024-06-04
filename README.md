@@ -6,7 +6,13 @@ A structurally-accurate, modular, and articulating B-DNA model kit optimized for
 
 ## Features
 
-- To be added
+1. TBD
+
+2. TBD
+
+3. TBD
+
+4. TBD
 
 ## Catalog
 
