@@ -23,9 +23,16 @@ A structurally-accurate, modular, and articulating B-DNA model kit optimized for
 - `endcap_o.stl`, `endcap_p.stl`
     - 5' and 3' end caps respectively.
 
-### OpenSCAD Scripts
+### OpenSCAD "Library" Modules
 
-- To be added
+- `affine_transformation.scad`
+    - Maps junctions onto models. Check module for more information
+- `all-junctions.scad`
+    - Generates the varoius junctions utilized throughout the model
+- `global_variables.scad`
+    - Global variables used by all OpenSCAD scripts
+- `two_point_cylinder.scad`
+    - Generates a cylinder between two arbitrary points
 
 ## References
 
